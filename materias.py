@@ -29,7 +29,7 @@ LINKS = {
 MIS_CODIGOS = {
     "Lunes": "ASIG00126",
     "Martes": "ASIG00131",
-    "Miercoles": "ASIG00122",
+    "Miercoles": "ASIG00122 -EQUIPO2",
     "Jueves": "ASIG00124",
 }
 
